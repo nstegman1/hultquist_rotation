@@ -1,7 +1,14 @@
+- [Description](#Description)
+- [Getting Started](#Getting-Started)
+  * [Dependencies](#Dependencies)
+  * [Installing](#Installing)
+  * [Executing Program](#Executing-Program)
+
 # Hultquist Rotation Scripts
 
 This is the compiled code I made for my Hultquist lab rotation project.
 
+<!-- toc -->
 ## Description
 
 This project consisted of three main parts:
@@ -16,7 +23,7 @@ The RNAseq and APA analyses were performed on Quest; however, the data visualiza
 
 ### Dependencies
 
-* Describe any prerequisites, libraries, OS version, etc., needed before installing program.
+
 * ex. Windows 10
 
 ### Installing
@@ -25,6 +32,9 @@ The RNAseq and APA analyses were performed on Quest; however, the data visualiza
 * Any modifications needed to be made to files/folders
 
 ### Executing program
+```
+print('hello world')
+```
 
 * How to run the program
 * Step-by-step bullets
