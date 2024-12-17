@@ -1,0 +1,270 @@
+miRNA family	Conserved sites total	Conserved 8mer sites	Conserved 7mer-m8 sites	Conserved 7mer-1A sites	Poorly conserved sites total	Poorly conserved 8mer sites	Poorly conserved 7mer-m8 sites	Poorly conserved 7mer-1A sites	6mers	Cumulative weighted context++ score	Total context++ score	Aggregate Pct	miRNA family is conserved in:
+miR-203a-3p.1	1	1	0	0	4	0	2	2	2	-0.37	-0.75	0.42	Vertebrates
+miR-203a-3p.2	0	0	0	0	5	0	2	3	3	-0.09	-0.16	0.35	Vertebrates
+miR-182-5p	1	1	0	0	1	0	0	1	0	-0.13	-0.24	0.22	Vertebrates
+miR-140-5p	1	1	0	0	2	0	2	0	1	-0.28	-0.45	0.21	Vertebrates
+miR-143-3p	0	0	0	0	4	0	3	1	3	-0.40	-0.58	0.21	Vertebrates
+miR-145-5p	1	1	0	0	1	0	0	1	0	-0.04	-0.07	0.17	Vertebrates
+miR-425-5p	0	0	0	0	2	0	2	0	0	-0.06	-0.11	0.17	Vertebrates
+miR-96-5p/1271-5p	0	0	0	0	2	0	0	2	0	-0.09	-0.17	0.16	Vertebrates
+miR-133a-3p.2/133b	0	0	0	0	1	0	0	1	0	-0.01	-0.01	0.10	Vertebrates
+miR-17-5p/20-5p/93-5p/106-5p/519-3p	0	0	0	0	2	0	1	1	3	-0.06	-0.12	< 0.1	Vertebrates
+miR-139-5p	0	0	0	0	3	0	1	2	0	-0.06	-0.10	< 0.1	Vertebrates
+miR-129-5p	0	0	0	0	6	0	2	4	7	-0.10	-0.17	< 0.1	Vertebrates
+miR-193-3p	0	0	0	0	2	0	1	1	0	-0.16	-0.31	< 0.1	Vertebrates
+miR-205-5p	0	0	0	0	1	0	1	0	1	-0.01	-0.02	< 0.1	Vertebrates
+miR-148-3p/152-3p	0	0	0	0	2	1	1	0	0	-0.03	-0.05	< 0.1	Vertebrates
+miR-103-3p/107	0	0	0	0	1	0	0	1	1	-0.03	-0.05	< 0.1	Vertebrates
+miR-23-3p	0	0	0	0	1	0	1	0	2	-0.01	-0.02	< 0.1	Vertebrates
+miR-490-3p	0	0	0	0	2	1	1	0	2	-0.09	-0.16	< 0.1	Vertebrates
+miR-141-3p/200a-3p	0	0	0	0	3	1	1	1	6	-0.07	-0.13	< 0.1	Vertebrates
+miR-181-5p	0	0	0	0	2	1	0	1	1	-0.03	-0.06	< 0.1	Vertebrates
+miR-155-5p	0	0	0	0	1	0	0	1	1	-0.03	-0.03	< 0.1	Vertebrates
+miR-140-3p.2	0	0	0	0	3	0	2	1	2	-0.06	-0.11	< 0.1	Vertebrates
+miR-129-3p	0	0	0	0	1	0	0	1	0	-0.02	-0.04	< 0.1	Vertebrates
+miR-199-5p	0	0	0	0	1	0	1	0	2	-0.01	-0.02	< 0.1	Vertebrates
+miR-221-3p/222-3p	0	0	0	0	1	0	1	0	0	-0.04	-0.08	< 0.1	Vertebrates
+miR-138-5p	0	0	0	0	1	1	0	0	2	-0.02	-0.03	< 0.1	Vertebrates
+miR-19-3p	0	0	0	0	2	0	1	1	2	-0.03	-0.05	< 0.1	Vertebrates
+miR-15-5p/16-5p/195-5p/424-5p/497-5p	0	0	0	0	1	0	0	1	1	-0.09	-0.17	< 0.1	Vertebrates
+miR-802	0	0	0	0	2	0	1	1	0	-0.02	-0.03	< 0.1	Vertebrates
+miR-302-3p/372-3p/373-3p/520-3p	0	0	0	0	1	0	1	0	1	-0.05	-0.09	< 0.1	Vertebrates
+miR-214-5p	0	0	0	0	2	0	0	2	1	-0.04	-0.06	< 0.1	Vertebrates
+miR-146-5p	0	0	0	0	1	1	0	0	1	-0.04	-0.05	< 0.1	Vertebrates
+miR-183-5p.1	0	0	0	0	2	0	0	2	1	-0.11	-0.20	< 0.1	Vertebrates
+miR-217	0	0	0	0	2	0	2	0	5	-0.15	-0.16	< 0.1	Vertebrates
+miR-218-5p	0	0	0	0	1	0	1	0	2	-0.01	-0.02	< 0.1	Vertebrates
+miR-26-5p	0	0	0	0	2	1	0	1	1	-0.04	-0.09	< 0.1	Vertebrates
+miR-142-3p.2	0	0	0	0	1	1	0	0	0	-0.02	-0.04	< 0.1	Vertebrates
+miR-122-5p	0	0	0	0	3	0	0	2	0	-0.01	-0.02	< 0.1	Vertebrates
+miR-216b-5p	0	0	0	0	3	0	2	1	3	-0.07	-0.12	< 0.1	Vertebrates
+miR-10-5p	0	0	0	0	1	0	1	0	1	-0.13	-0.15	< 0.1	Vertebrates
+miR-204-5p/211-5p	0	0	0	0	2	0	0	2	0	-0.06	-0.11	< 0.1	Vertebrates
+miR-25-3p/32-5p/92-3p/363-3p/367-3p	0	0	0	0	1	0	1	0	1	-0.02	-0.02	< 0.1	Vertebrates
+miR-135-5p	0	0	0	0	1	0	1	0	3	-0.03	-0.05	< 0.1	Vertebrates
+miR-30-5p	0	0	0	0	1	0	1	0	0	-0.02	-0.03	< 0.1	Vertebrates
+miR-34-5p/449-5p	0	0	0	0	1	0	0	1	0	-0.12	-0.22	< 0.1	Vertebrates
+miR-140-3p.1	0	0	0	0	2	1	1	0	2	-0.09	-0.17	< 0.1	Vertebrates
+miR-455-5p	0	0	0	0	1	0	0	1	1	-0.01	-0.02	< 0.1	Vertebrates
+miR-24-3p	0	0	0	0	2	0	0	2	2	-0.03	-0.04	< 0.1	Vertebrates
+miR-194-5p	0	0	0	0	2	1	0	1	1	-0.02	-0.04	< 0.1	Vertebrates
+let-7-5p/miR-98-5p	0	0	0	0	1	0	0	1	1	-0.05	-0.09	< 0.1	Vertebrates
+miR-33-5p	0	0	0	0	2	0	1	1	2	-0.02	-0.03	< 0.1	Vertebrates
+miR-101-3p.2	0	0	0	0	1	0	0	1	4	-0.01	-0.01	< 0.1	Vertebrates
+miR-150-5p	0	0	0	0	2	0	2	0	2	-0.02	-0.04	< 0.1	Vertebrates
+miR-22-3p	0	0	0	0	1	0	0	1	0	-0.01	-0.01	< 0.1	Vertebrates
+miR-1-3p/206	0	0	0	0	1	0	0	1	2	-0.02	-0.04	< 0.1	Vertebrates
+miR-128-3p	0	0	0	0	2	0	1	1	0	-0.02	-0.03	< 0.1	Vertebrates
+miR-365-3p	0	0	0	0	2	0	0	2	0	-0.09	-0.09	< 0.1	Vertebrates
+miR-192-5p/215-5p	0	0	0	0	2	0	0	2	2	-0.06	-0.10	< 0.1	Vertebrates
+miR-383-5p.2	0	0	0	0	1	0	1	0	0	-0.01	-0.02	< 0.1	Vertebrates
+miR-126-3p.1	0	0	0	0	1	0	0	1	0	-0.10	-0.18	< 0.1	Vertebrates
+miR-455-3p.2	0	0	0	0	3	0	1	2	4	-0.11	-0.20	< 0.1	Vertebrates
+miR-7-5p	0	0	0	0	2	1	1	0	1	-0.03	-0.05	< 0.1	Vertebrates
+miR-190-5p	0	0	0	0	1	0	0	1	2	-0.13	-0.19	< 0.1	Vertebrates
+miR-216a-5p	0	0	0	0	4	1	3	0	2	-0.07	-0.13	< 0.1	Vertebrates
+miR-130-3p/301-3p/454-3p	0	0	0	0	3	0	3	0	2	-0.05	-0.10	< 0.1	Vertebrates
+miR-383-5p.1	0	0	0	0	1	0	1	0	0	-0.04	-0.08	< 0.1	Vertebrates
+miR-202-5p	0	0	0	0	2	0	1	1	2	-0.02	-0.04	< 0.1	Vertebrates
+miR-375	0	0	0	0	1	1	0	0	2	-0.02	-0.03	< 0.1	Vertebrates
+miR-27-3p	0	0	0	0	2	0	1	1	1	-0.02	-0.03	< 0.1	Vertebrates
+miR-219a-2-3p	0	0	0	0	3	2	0	1	1	-0.31	-0.47	N/A	Mammals
+miR-328-3p	0	0	0	0	1	1	0	0	0	-0.20	-0.37	N/A	Mammals
+miR-409-5p	0	0	0	0	1	1	0	0	1	-0.13	-0.25	N/A	Mammals
+miR-494-3p	0	0	0	0	1	0	1	0	5	-0.18	-0.21	N/A	Mammals
+miR-339-5p	0	0	0	0	4	0	2	2	2	-0.19	-0.21	N/A	Mammals
+miR-28-3p	1	1	0	0	0	0	0	0	0	-0.20	-0.21	N/A	Mammals
+miR-665	0	0	0	0	2	0	1	0	2	-0.15	-0.20	N/A	Mammals
+miR-299-3p	0	0	0	0	1	1	0	0	2	-0.11	-0.20	N/A	Mammals
+miR-760	0	0	0	0	2	0	0	2	1	-0.10	-0.19	N/A	Mammals
+miR-582-5p	0	0	0	0	3	0	2	1	2	-0.10	-0.18	N/A	Mammals
+miR-448	0	0	0	0	5	0	5	0	0	-0.11	-0.18	N/A	Mammals
+miR-505-3p.1	0	0	0	0	2	0	1	1	0	-0.09	-0.17	N/A	Mammals
+miR-495-3p	0	0	0	0	7	1	6	0	4	-0.09	-0.16	N/A	Mammals
+miR-423-5p	0	0	0	0	1	0	1	0	0	-0.09	-0.16	N/A	Mammals
+miR-376-3p	0	0	0	0	2	0	1	1	0	-0.09	-0.16	N/A	Mammals
+miR-874-3p	0	0	0	0	2	0	0	2	1	-0.09	-0.15	N/A	Mammals
+miR-411-5p.2	0	0	0	0	2	1	1	0	2	-0.08	-0.15	N/A	Mammals
+miR-361-5p	0	0	0	0	1	0	1	0	0	-0.14	-0.14	N/A	Mammals
+miR-326	0	0	0	0	1	0	1	0	2	-0.07	-0.14	N/A	Mammals
+miR-185-5p	0	0	0	0	2	0	1	1	0	-0.07	-0.13	N/A	Mammals
+miR-491-5p	0	0	0	0	1	0	1	0	3	-0.07	-0.12	N/A	Mammals
+miR-331-3p	0	0	0	0	1	0	0	1	3	-0.07	-0.12	N/A	Mammals
+miR-875-5p	0	0	0	0	1	0	1	0	2	-0.07	-0.12	N/A	Mammals
+miR-483-3p.1	0	0	0	0	2	0	1	1	0	-0.06	-0.12	N/A	Mammals
+miR-670-3p	1	1	0	0	3	0	1	2	2	-0.06	-0.12	N/A	Mammals
+miR-487-3p	0	0	0	0	1	0	1	0	0	-0.06	-0.11	N/A	Mammals
+miR-501-3p/502-3p	0	0	0	0	1	0	1	0	2	-0.05	-0.10	N/A	Mammals
+miR-503-5p	0	0	0	0	1	0	0	1	1	-0.05	-0.10	N/A	Mammals
+miR-493-5p	0	0	0	0	5	1	1	3	1	-0.06	-0.08	N/A	Mammals
+miR-136-5p	0	0	0	0	1	0	0	1	0	-0.04	-0.08	N/A	Mammals
+miR-186-5p	0	0	0	0	5	0	2	3	5	-0.05	-0.07	N/A	Mammals
+miR-151-3p	0	0	0	0	1	0	0	1	0	-0.04	-0.07	N/A	Mammals
+miR-543	0	0	0	0	2	0	0	2	9	-0.04	-0.07	N/A	Mammals
+miR-296-3p	0	0	0	0	1	0	0	1	1	-0.03	-0.06	N/A	Mammals
+miR-542-3p	0	0	0	0	2	0	1	1	0	-0.03	-0.06	N/A	Mammals
+miR-485-5p	0	0	0	0	2	1	1	0	0	-0.06	-0.06	N/A	Mammals
+miR-655-3p	0	0	0	0	2	1	1	0	0	-0.03	-0.05	N/A	Mammals
+miR-224-5p	0	0	0	0	3	1	0	2	1	-0.03	-0.05	N/A	Mammals
+miR-433-3p	0	0	0	0	2	0	1	1	2	-0.03	-0.05	N/A	Mammals
+miR-28-5p/708-5p	0	0	0	0	1	0	1	0	1	-0.02	-0.04	N/A	Mammals
+miR-411-3p	0	0	0	0	2	0	2	0	3	-0.02	-0.04	N/A	Mammals
+miR-371-5p	0	0	0	0	4	0	0	4	3	-0.02	-0.04	N/A	Mammals
+miR-381-3p	0	0	0	0	2	1	0	1	3	-0.02	-0.04	N/A	Mammals
+miR-410-3p	0	0	0	0	3	0	1	2	3	-0.02	-0.04	N/A	Mammals
+miR-1306-5p	0	0	0	0	1	0	1	0	2	-0.02	-0.04	N/A	Mammals
+miR-1251-5p	0	0	0	0	1	0	0	1	0	-0.02	-0.03	N/A	Mammals
+miR-335-5p	0	0	0	0	1	1	0	0	3	-0.02	-0.03	N/A	Mammals
+miR-409-3p	0	0	0	0	2	0	1	1	3	-0.02	-0.03	N/A	Mammals
+miR-485-3p/539-3p	0	0	0	0	1	1	0	0	0	-0.02	-0.03	N/A	Mammals
+miR-340-5p	0	0	0	0	3	0	0	3	4	-0.02	-0.03	N/A	Mammals
+miR-505-3p.2	0	0	0	0	2	0	1	1	1	-0.02	-0.03	N/A	Mammals
+miR-362-5p/500b-5p	0	0	0	0	1	0	1	0	0	-0.02	-0.03	N/A	Mammals
+miR-496.1	0	0	0	0	1	0	1	0	0	-0.01	-0.02	N/A	Mammals
+miR-411-5p.1	0	0	0	0	2	0	0	2	1	-0.01	-0.02	N/A	Mammals
+miR-504-5p.1	0	0	0	0	1	0	1	0	1	-0.01	-0.02	N/A	Mammals
+miR-532-3p	0	0	0	0	1	0	1	0	3	-0.01	-0.02	N/A	Mammals
+miR-496.2	0	0	0	0	2	0	0	2	0	-0.01	-0.02	N/A	Mammals
+miR-369-3p	0	0	0	0	1	0	1	0	1	-0.01	-0.02	N/A	Mammals
+miR-488-3p	0	0	0	0	2	0	0	2	3	-0.01	-0.02	N/A	Mammals
+miR-382-3p	0	0	0	0	1	0	1	0	1	-0.01	-0.02	N/A	Mammals
+miR-323-3p	0	0	0	0	1	0	0	1	3	-0.01	-0.01	N/A	Mammals
+miR-421	0	0	0	0	1	0	0	1	2	-0.01	-0.01	N/A	Mammals
+miR-382-5p	0	0	0	0	1	0	0	1	3	-0.01	-0.01	N/A	Mammals
+miR-873-5p.1	0	0	0	0	1	0	0	1	1	-0.01	-0.01	N/A	Mammals
+miR-668-3p	0	0	0	0	1	0	0	1	0	-0.01	-0.01	N/A	Mammals
+miR-330-3p.2	0	0	0	0	1	0	0	1	0	-0.01	-0.01	N/A	Mammals
+miR-299-5p	0	0	0	0	1	0	0	1	0	-0.01	-0.01	N/A	Mammals
+miR-329-3p/362-3p	0	0	0	0	1	0	0	1	2	-0.01	-0.01	N/A	Mammals
+miR-5586-5p	0	0	0	0	6	1	4	1	2	-0.58	-1.01	N/A	Poorly conserved family
+miR-3171	0	0	0	0	3	0	1	2	1	-0.40	-0.82	N/A	Poorly conserved family
+miR-1911-5p	0	0	0	0	1	1	0	0	1	-0.42	-0.43	N/A	Poorly conserved family
+miR-3612	0	0	0	0	2	0	2	0	3	-0.30	-0.42	N/A	Poorly conserved family
+miR-3145-3p	0	0	0	0	2	1	0	1	2	-0.25	-0.39	N/A	Poorly conserved family
+miR-4524-5p	0	0	0	0	2	0	1	1	1	-0.18	-0.31	N/A	Poorly conserved family
+miR-378g	0	0	0	0	1	0	1	0	3	-0.25	-0.31	N/A	Poorly conserved family
+miR-4739	0	0	0	0	2	1	0	1	0	-0.15	-0.28	N/A	Poorly conserved family
+miR-642-3p	0	0	0	0	3	0	2	1	1	-0.14	-0.26	N/A	Poorly conserved family
+miR-625-5p	0	0	0	0	2	2	0	0	0	-0.13	-0.25	N/A	Poorly conserved family
+miR-374b-3p	0	0	0	0	2	0	1	1	1	-0.13	-0.24	N/A	Poorly conserved family
+miR-6720-5p	0	0	0	0	3	0	3	0	6	-0.16	-0.24	N/A	Poorly conserved family
+miR-3200-3p	0	0	0	0	1	1	0	0	2	-0.12	-0.23	N/A	Poorly conserved family
+miR-599	0	0	0	0	3	1	0	2	4	-0.13	-0.23	N/A	Poorly conserved family
+miR-3613-5p	0	0	0	0	1	0	1	0	1	-0.21	-0.22	N/A	Poorly conserved family
+miR-126-5p	0	0	0	0	4	1	0	3	5	-0.12	-0.22	N/A	Poorly conserved family
+miR-3909	0	0	0	0	2	1	0	1	0	-0.11	-0.21	N/A	Poorly conserved family
+miR-624-5p	0	0	0	0	1	0	1	0	1	-0.19	-0.21	N/A	Poorly conserved family
+miR-512-3p	0	0	0	0	2	0	2	0	0	-0.10	-0.19	N/A	Poorly conserved family
+miR-582-3p	0	0	0	0	3	0	1	2	0	-0.10	-0.18	N/A	Poorly conserved family
+miR-574-5p	0	0	0	0	3	1	0	0	0	-0.10	-0.18	N/A	Poorly conserved family
+miR-642b-5p	0	0	0	0	2	1	1	0	0	-0.10	-0.18	N/A	Poorly conserved family
+miR-873-3p	0	0	0	0	3	1	0	2	1	-0.09	-0.17	N/A	Poorly conserved family
+miR-577	0	0	0	0	3	0	1	2	2	-0.15	-0.16	N/A	Poorly conserved family
+miR-513c-5p/514b-5p	0	0	0	0	3	0	1	2	6	-0.09	-0.16	N/A	Poorly conserved family
+miR-3614-5p	0	0	0	0	5	1	1	3	0	-0.10	-0.16	N/A	Poorly conserved family
+miR-769-5p	0	0	0	0	4	0	2	2	0	-0.09	-0.15	N/A	Poorly conserved family
+miR-656-3p	0	0	0	0	2	0	1	1	2	-0.08	-0.15	N/A	Poorly conserved family
+miR-95-3p	0	0	0	0	1	0	0	1	0	-0.08	-0.15	N/A	Poorly conserved family
+miR-3622b-5p	0	0	0	0	1	0	0	1	0	-0.08	-0.15	N/A	Poorly conserved family
+miR-576-5p	0	0	0	0	1	1	0	0	4	-0.07	-0.15	N/A	Poorly conserved family
+miR-5010-5p	0	0	0	0	2	0	0	2	0	-0.08	-0.14	N/A	Poorly conserved family
+miR-4424	0	0	0	0	2	0	1	1	1	-0.08	-0.14	N/A	Poorly conserved family
+miR-4731-5p	0	0	0	0	4	1	0	3	7	-0.08	-0.14	N/A	Poorly conserved family
+miR-1343-3p	0	0	0	0	2	1	1	0	0	-0.07	-0.14	N/A	Poorly conserved family
+miR-2115-3p	0	0	0	0	3	1	2	0	1	-0.11	-0.13	N/A	Poorly conserved family
+miR-629-5p	0	0	0	0	1	0	0	1	3	-0.07	-0.13	N/A	Poorly conserved family
+miR-552-3p	0	0	0	0	1	0	0	1	1	-0.07	-0.13	N/A	Poorly conserved family
+miR-1296-5p	0	0	0	0	1	0	1	0	1	-0.07	-0.13	N/A	Poorly conserved family
+miR-510-5p	0	0	0	0	3	2	0	1	1	-0.08	-0.13	N/A	Poorly conserved family
+miR-519-3p	0	0	0	0	1	0	1	0	1	-0.07	-0.13	N/A	Poorly conserved family
+miR-500a-3p	0	0	0	0	1	0	1	0	0	-0.07	-0.13	N/A	Poorly conserved family
+miR-5000-3p	0	0	0	0	2	1	1	0	0	-0.07	-0.13	N/A	Poorly conserved family
+miR-641/3617-5p	0	0	0	0	2	0	1	1	0	-0.07	-0.13	N/A	Poorly conserved family
+miR-3146	0	0	0	0	1	0	1	0	2	-0.07	-0.12	N/A	Poorly conserved family
+miR-588	0	0	0	0	2	0	1	1	2	-0.07	-0.12	N/A	Poorly conserved family
+miR-500a-5p	0	0	0	0	1	0	1	0	4	-0.07	-0.12	N/A	Poorly conserved family
+miR-675-3p	0	0	0	0	3	0	1	2	4	-0.07	-0.12	N/A	Poorly conserved family
+miR-1301-3p	0	0	0	0	1	1	0	0	2	-0.06	-0.12	N/A	Poorly conserved family
+miR-3121-3p	0	0	0	0	3	1	1	1	1	-0.10	-0.11	N/A	Poorly conserved family
+miR-3924	0	0	0	0	4	0	3	1	2	-0.06	-0.11	N/A	Poorly conserved family
+miR-4766-5p	0	0	0	0	3	1	1	1	3	-0.05	-0.10	N/A	Poorly conserved family
+miR-4640-5p	0	0	0	0	1	0	0	1	0	-0.05	-0.10	N/A	Poorly conserved family
+miR-580-3p	0	0	0	0	2	0	0	2	5	-0.05	-0.09	N/A	Poorly conserved family
+miR-5691	0	0	0	0	2	0	1	1	3	-0.05	-0.09	N/A	Poorly conserved family
+miR-1266-3p	0	0	0	0	1	0	1	0	1	-0.05	-0.09	N/A	Poorly conserved family
+miR-942-5p	0	0	0	0	3	1	0	2	1	-0.05	-0.09	N/A	Poorly conserved family
+miR-3163	0	0	0	0	4	1	1	2	6	-0.06	-0.09	N/A	Poorly conserved family
+miR-2114-5p	0	0	0	0	2	0	0	2	0	-0.05	-0.09	N/A	Poorly conserved family
+miR-1185-5p	0	0	0	0	1	0	1	0	1	-0.05	-0.09	N/A	Poorly conserved family
+miR-432-5p	0	0	0	0	1	0	1	0	0	-0.05	-0.08	N/A	Poorly conserved family
+miR-671-5p	0	0	0	0	2	1	0	1	1	-0.05	-0.08	N/A	Poorly conserved family
+miR-887-3p	0	0	0	0	1	0	0	1	1	-0.05	-0.08	N/A	Poorly conserved family
+miR-5687	0	0	0	0	1	0	0	1	1	-0.08	-0.08	N/A	Poorly conserved family
+miR-506-5p	0	0	0	0	2	0	2	0	1	-0.05	-0.08	N/A	Poorly conserved family
+miR-6509-3p	0	0	0	0	1	0	0	1	0	-0.04	-0.08	N/A	Poorly conserved family
+miR-1277-5p	0	0	0	0	4	0	4	0	6	-0.04	-0.08	N/A	Poorly conserved family
+miR-1294	0	0	0	0	1	0	0	1	0	-0.08	-0.08	N/A	Poorly conserved family
+miR-1323	0	0	0	0	3	0	0	3	1	-0.04	-0.08	N/A	Poorly conserved family
+miR-670-5p	0	0	0	0	1	0	0	1	2	-0.04	-0.08	N/A	Poorly conserved family
+miR-4662-5p	0	0	0	0	1	0	1	0	0	-0.04	-0.08	N/A	Poorly conserved family
+miR-616-3p	0	0	0	0	2	1	1	0	0	-0.05	-0.07	N/A	Poorly conserved family
+miR-520g-3p	0	0	0	0	1	0	0	1	2	-0.04	-0.07	N/A	Poorly conserved family
+miR-499b-5p	0	0	0	0	1	0	1	0	1	-0.04	-0.07	N/A	Poorly conserved family
+miR-2355-5p	0	0	0	0	1	0	0	1	2	-0.04	-0.07	N/A	Poorly conserved family
+miR-3187-3p	0	0	0	0	2	0	1	1	2	-0.04	-0.07	N/A	Poorly conserved family
+miR-4428	0	0	0	0	1	0	1	0	2	-0.04	-0.07	N/A	Poorly conserved family
+miR-5009-3p	0	0	0	0	2	0	1	1	3	-0.04	-0.07	N/A	Poorly conserved family
+miR-337-3p	0	0	0	0	1	0	0	1	3	-0.03	-0.06	N/A	Poorly conserved family
+miR-4761-3p	0	0	0	0	1	0	0	1	0	-0.03	-0.06	N/A	Poorly conserved family
+miR-4637	0	0	0	0	4	0	2	2	0	-0.03	-0.06	N/A	Poorly conserved family
+miR-514a-5p	0	0	0	0	2	1	1	0	4	-0.03	-0.06	N/A	Poorly conserved family
+miR-3140-3p	0	0	0	0	1	0	1	0	1	-0.03	-0.06	N/A	Poorly conserved family
+miR-3150b-3p	0	0	0	0	1	0	1	0	1	-0.03	-0.05	N/A	Poorly conserved family
+miR-6509-5p	0	0	0	0	1	0	1	0	0	-0.03	-0.05	N/A	Poorly conserved family
+miR-498	0	0	0	0	3	0	2	1	1	-0.03	-0.05	N/A	Poorly conserved family
+miR-579-3p	0	0	0	0	4	0	1	3	2	-0.03	-0.05	N/A	Poorly conserved family
+miR-2114-3p	0	0	0	0	1	0	0	1	1	-0.03	-0.05	N/A	Poorly conserved family
+miR-885-5p	0	0	0	0	1	0	1	0	1	-0.03	-0.05	N/A	Poorly conserved family
+miR-2467-3p	0	0	0	0	2	0	2	0	1	-0.03	-0.05	N/A	Poorly conserved family
+miR-525-5p	0	0	0	0	2	0	2	0	4	-0.02	-0.05	N/A	Poorly conserved family
+miR-1307-3p	0	0	0	0	1	0	0	1	0	-0.03	-0.05	N/A	Poorly conserved family
+miR-370-3p	0	0	0	0	3	0	0	3	1	-0.02	-0.04	N/A	Poorly conserved family
+miR-2681-3p	0	0	0	0	2	0	2	0	2	-0.02	-0.04	N/A	Poorly conserved family
+miR-584-5p	0	0	0	0	2	1	0	1	0	-0.02	-0.04	N/A	Poorly conserved family
+miR-944	0	0	0	0	2	0	2	0	7	-0.02	-0.04	N/A	Poorly conserved family
+miR-1276	0	0	0	0	2	0	1	1	4	-0.03	-0.04	N/A	Poorly conserved family
+miR-3681-5p	0	0	0	0	1	0	0	1	4	-0.02	-0.04	N/A	Poorly conserved family
+miR-515-5p/519e-5p	0	0	0	0	2	0	0	2	1	-0.03	-0.03	N/A	Poorly conserved family
+miR-545-5p	0	0	0	0	1	1	0	0	1	-0.02	-0.03	N/A	Poorly conserved family
+miR-361-3p	0	0	0	0	1	0	0	1	1	-0.02	-0.03	N/A	Poorly conserved family
+miR-105-5p	0	0	0	0	2	0	1	1	2	-0.02	-0.03	N/A	Poorly conserved family
+miR-766-5p	0	0	0	0	1	1	0	0	2	-0.02	-0.03	N/A	Poorly conserved family
+miR-522-3p	0	0	0	0	1	0	0	1	2	-0.02	-0.03	N/A	Poorly conserved family
+miR-556-3p	0	0	0	0	1	0	0	1	0	-0.01	-0.03	N/A	Poorly conserved family
+miR-545-3p	0	0	0	0	1	0	1	0	2	-0.01	-0.02	N/A	Poorly conserved family
+miR-1179	0	0	0	0	1	0	0	1	1	-0.01	-0.02	N/A	Poorly conserved family
+miR-2355-3p	0	0	0	0	1	0	0	1	3	-0.01	-0.02	N/A	Poorly conserved family
+miR-345-3p	0	0	0	0	1	0	1	0	1	-0.01	-0.02	N/A	Poorly conserved family
+miR-892-5p	0	0	0	0	1	0	1	0	2	-0.01	-0.02	N/A	Poorly conserved family
+miR-197-3p	0	0	0	0	2	0	0	2	3	-0.01	-0.02	N/A	Poorly conserved family
+miR-3150a-3p	0	0	0	0	1	0	1	0	2	-0.01	-0.02	N/A	Poorly conserved family
+miR-7151-5p	0	0	0	0	2	0	0	2	1	-0.01	-0.02	N/A	Poorly conserved family
+miR-9-3p	0	0	0	0	1	0	0	1	1	-0.01	-0.02	N/A	Poorly conserved family
+miR-642a-5p	0	0	0	0	1	0	0	1	2	-0.01	-0.02	N/A	Poorly conserved family
+miR-1278	0	0	0	0	1	0	0	1	2	-0.01	-0.02	N/A	Poorly conserved family
+miR-625-3p	0	0	0	0	1	0	0	1	0	-0.01	-0.02	N/A	Poorly conserved family
+miR-4766-3p	0	0	0	0	1	0	0	1	0	-0.01	-0.01	N/A	Poorly conserved family
+miR-323b-3p	0	0	0	0	1	0	0	1	2	-0.01	-0.01	N/A	Poorly conserved family
+miR-770-5p	0	0	0	0	1	0	0	1	0	-0.01	-0.01	N/A	Poorly conserved family
+miR-889-3p	0	0	0	0	1	0	0	1	3	-0.01	-0.01	N/A	Poorly conserved family
+miR-2681-5p	0	0	0	0	1	0	0	1	2	-0.01	-0.01	N/A	Poorly conserved family
+miR-513a-5p	0	0	0	0	1	0	0	1	2	-0.01	-0.01	N/A	Poorly conserved family
+miR-654-3p	0	0	0	0	1	0	0	1	1	-0.01	-0.01	N/A	Poorly conserved family
+miR-589-5p	0	0	0	0	1	0	0	1	1	-0.01	-0.01	N/A	Poorly conserved family
+miR-450b-5p	0	0	0	0	1	0	0	1	1	-0.01	-0.01	N/A	Poorly conserved family
+miR-3194-3p	0	0	0	0	1	0	0	1	0	-0.01	-0.01	N/A	Poorly conserved family
+miR-345-5p	0	0	0	0	1	0	0	1	1	-0.01	-0.01	N/A	Poorly conserved family
+miR-624-3p	0	0	0	0	1	0	0	1	0	-0.01	-0.01	N/A	Poorly conserved family
+miR-214-3p/3619-5p	0	0	0	0	1	0	0	1	2	-0.01	-0.01	N/A	Poorly conserved family
+miR-628-5p	0	0	0	0	1	0	0	1	1	-0.01	-0.01	N/A	Poorly conserved family
+miR-508-3p	0	0	0	0	1	0	0	0	0	N/A	N/A	N/A	Poorly conserved family
