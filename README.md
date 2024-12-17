@@ -21,6 +21,7 @@ This project consists of:
 * APA Analysis
 * Shared gene lists and correlation plots
 * Other data visualizations
+* Parse TargetScan output
 
 The RNAseq, APA, and DGE analyses were performed on Quest; however, the data visualization and creation of shared gene lists were done locally on my Mac machine.
 
