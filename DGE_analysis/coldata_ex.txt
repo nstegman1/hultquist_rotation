@@ -1,0 +1,7 @@
+sampleID,condition
+WT_10_DMSO_19,Treatment
+WT_10_DMSO_20,Treatment
+WT_10_DMSO_21,Treatment
+mock_10_28,Control
+mock_10_29,Control
+mock_10_30,Control
