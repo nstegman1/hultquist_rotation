@@ -1,0 +1,6 @@
+WT_10_DMSO_19 /projects/p32549/diff_gene_exp/stringtie_ht1080_out/EOK_19_stringtie_output/EOK_19.gtf
+WT_10_DMSO_20 /projects/p32549/diff_gene_exp/stringtie_ht1080_out/EOK_20_stringtie_output/EOK_20.gtf
+WT_10_DMSO_21 /projects/p32549/diff_gene_exp/stringtie_ht1080_out/EOK_21_stringtie_output/EOK_21.gtf
+mock_10_28 /projects/p32549/diff_gene_exp/stringtie_ht1080_out/EOK_28_stringtie_output/EOK_28.gtf
+mock_10_29 /projects/p32549/diff_gene_exp/stringtie_ht1080_out/EOK_29_stringtie_output/EOK_29.gtf
+mock_10_30 /projects/p32549/diff_gene_exp/stringtie_ht1080_out/EOK_30_stringtie_output/EOK_30.gtf
