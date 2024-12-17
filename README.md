@@ -98,10 +98,11 @@ Runs DGE on the preprocessed RNAseq data
 
 ### Before Running
 
-* Make a text file containing the metadata of the samples you are comparing (3 infected replicates vs 3 uninfected replicates)
+* Make a text file containing the metadata of the samples you are comparing (3 infected replicates vs 3 uninfected replicates) (result_list_ex.txt)
+* Make a text file for each comparison being tested containing the name of each replicate and the path to that replicate's gtf file (coldata_ex.txt)
 * Change paths and create folders where you want the output to be stored
 * You may have to manually install StringTie from its GitHub repo
-* I did not submit this as a job
+* I did not submit this as a job, but still ran it through Quest
 
 ### Executing program
 
