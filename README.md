@@ -17,11 +17,17 @@ This is the compiled code I made for my Hultquist lab rotation project.
   * [Dependencies](#Dependencies)
   * [Before Runninng](#Before-Running)
   * [Executing Program](#Executing-Program)
-- [Shared Gene Lists](#Shared-Gene-Lists)
+- [Shared Gene Lists and Correlation Plots](#Shared-Gene-Lists-and-Correlation-Plots)
   * [Dependencies](#Dependencies)
+  * [Before Runninng](#Before-Running)
   * [Executing Program](#Executing-Program)
-- [Data Visualizations](#Data-Visualizations)
+- [Other Data Visualizations](#Other-Data-Visualizations)
   * [Dependencies](#Dependencies)
+  * [Before Runninng](#Before-Running)
+  * [Executing Program](#Executing-Program)
+- [Parse TargetScan](#Parse-TargetScan)
+  * [Dependencies](#Dependencies)
+  * [Before Runninng](#Before-Running)
   * [Executing Program](#Executing-Program)
   
 
@@ -31,8 +37,8 @@ This is the compiled code I made for my Hultquist lab rotation project.
 This project consists of:
 * RNAseq Pipeline
 * APA Analysis
-* Creation of shared gene lists
-* Data Visualization
+* Shared gene lists and correlation plots
+* Other data visualizations
 
 The RNAseq, APA, and DGE analyses were performed on Quest; however, the data visualization and creation of shared gene lists were done locally on my Mac machine.
 
@@ -100,9 +106,9 @@ Runs DGE on the preprocessed RNAseq data
 
 * Make a text file containing the metadata of the samples you are comparing (3 infected replicates vs 3 uninfected replicates) (result_list_ex.txt)
 * Make a text file for each comparison being tested containing the name of each replicate and the path to that replicate's gtf file (coldata_ex.txt)
-* Change paths and create folders where you want the output to be stored
+* Change paths in scripts to yours and create folders where you want the output to be stored
 * You may have to manually install StringTie from its GitHub repo
-* I did not submit this as a job, but still ran it through Quest
+* I did not submit this as a job, but I still ran it through Quest
 
 ### Executing program
 
@@ -116,31 +122,69 @@ module load R/4.4.0
 Rscript /path/to/R/Script/DGE.R
 ```
 
-## Shared Gene Lists
+## Shared Gene Lists and Correlation Plots
+
+This finds shared genes between:
+ * REPAC output from one comparison vs REPAC output from another comparison
+ * REPAC output from one comparison vs DGE output from the same comparison
+   
+This also makes correlation plots between the two variables being compared using their fold changes
 
 ### Dependencies
 
-### Installing
+* Python
+* Pandas
+* REPAC and DGE outputs you want to compare
+
+### Before Running
+
+*  Change the paths in shared_genes.py to where your files are located
+*  Change the paths to where you want the plots and lists to be saved to
+
+### Executing program
+
+* I ran this script in the Python IDE Spyder
+
+## Other Data Visualizations
+
+correlation_w_labels.py: Gets the correlation plots but with gene counts of each quadrant
+
+volcano_plot.py: Gets volcano plots from either the DGE output or REPAC output
+
+### Dependencies
+
+* Python
+* Pandas
+* Matplotlib
+* REPAC and/or DGE output
+
+### Before Running
+
+*  Change the paths to the input data and the paths to where you want the plots to be exported to
+
+### Executing program
+
+* I ran this script in the Python IDE Spyder
+  
+## Parse TargetScan
+
+This script summarizes the TargetScan outputs of a gene list
+
+### Dependencies
+
+* Python
+* Pandas
+
+### Before Running
+
+* Run TargetScan (https://www.targetscan.org/vert_80/) through each gene in the gene list of interest
+* Save the TargetScan output as a .csv file, and rename file as the gene name.
+* put all these csv files into a folder
+* Change the input and output path in the python script
 
 * How/where to download your program
 * Any modifications needed to be made to files/folders
 
 ### Executing program
-```
-print('hello world')
-```
-## Data Visualizations
 
-### Dependencies
-
-### Installing
-
-* How/where to download your program
-* Any modifications needed to be made to files/folders
-
-### Executing program
-```
-print('hello world')
-```
-
-
+* I ran this script in the Python IDE Spyder
