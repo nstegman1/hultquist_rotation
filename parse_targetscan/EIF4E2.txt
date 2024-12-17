@@ -1,0 +1,9 @@
+miRNA family	Conserved sites total	Conserved 8mer sites	Conserved 7mer-m8 sites	Conserved 7mer-1A sites	Poorly conserved sites total	Poorly conserved 8mer sites	Poorly conserved 7mer-m8 sites	Poorly conserved 7mer-1A sites	6mers	Cumulative weighted context++ score	Total context++ score	Aggregate Pct	miRNA family is conserved in:
+miR-29-3p	1	1	0	0	0	0	0	0	0	-0.86	-0.86	< 0.1	Vertebrates
+miR-22-3p	0	0	0	0	1	0	0	1	0	-0.24	-0.24	< 0.1	Vertebrates
+miR-665	0	0	0	0	1	0	0	1	0	-0.16	-0.16	N/A	Mammals
+miR-1266-3p	0	0	0	0	1	0	1	0	0	-0.32	-0.32	N/A	Poorly conserved family
+miR-374b-3p	0	0	0	0	1	0	0	1	0	-0.31	-0.32	N/A	Poorly conserved family
+miR-5000-3p	0	0	0	0	1	0	1	0	0	-0.17	-0.17	N/A	Poorly conserved family
+miR-3613-5p	0	0	0	0	1	0	0	1	0	-0.12	-0.12	N/A	Poorly conserved family
+miR-3163	0	0	0	0	1	0	1	0	0	-0.02	-0.02	N/A	Poorly conserved family
