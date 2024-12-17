@@ -15,7 +15,7 @@ This is the compiled code I made for my Hultquist lab rotation project.
   * [Executing Program](#Executing-Program)
 - [Differential Gene Expression Analysis](#Differential-Gene-Expression-Analysis)
   * [Dependencies](#Dependencies)
-  * [Installing](#Installing)
+  * [Before Runninng](#Before-Running)
   * [Executing Program](#Executing-Program)
 - [Shared Gene Lists](#Shared-Gene-Lists)
   * [Dependencies](#Dependencies)
@@ -77,26 +77,44 @@ Runs REPAC on the preprocessed RNAseq data
   
 ### Before Running
 
-* rename paths to the files that you want to compare in the R script
-* Any modifications needed to be made to files/folders
+* Rename paths to the bam files that you want to compare in the R script
+* Make folders where you want the REPAC output to be saved to
+* There is the R file that runs REPAC and a bash file that submits the job
 
 ### Executing program
 ```
-print('hello world')
+sbatch /path/to/bash/run_APA.sh
 ```
 ## Differential Gene Expression Analysis
 
+Runs DGE on the preprocessed RNAseq data
+
 ### Dependencies
 
-### Installing
+* StringTie (https://github.com/gpertea/stringtie)
+* DeSeq2
+* R
+* human .gtf file (https://www.gencodegenes.org/human/release_38.html)
 
-* How/where to download your program
-* Any modifications needed to be made to files/folders
+### Before Running
+
+* Make a text file containing the metadata of the samples you are comparing (3 infected replicates vs 3 uninfected replicates)
+* Change paths and create folders where you want the output to be stored
+* You may have to manually install StringTie from its GitHub repo
+* I did not submit this as a job
 
 ### Executing program
+
+#### Run StringTie
 ```
-print('hello world')
+sbatch /path/to/bash/string_tie.sh
 ```
+#### Run DeSeq2
+```
+module load R/4.4.0
+Rscript /path/to/R/Script/DGE.R
+```
+
 ## Shared Gene Lists
 
 ### Dependencies
