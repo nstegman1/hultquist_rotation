@@ -53,7 +53,7 @@ Preprocesses raw bulk RNAseq data
 * ssh into Quest
  
 ```
-sbatch /path/to/bash/RNAseq_array.sh
+sbatch /path/to/bash/RNAseq_pipeline_array.sh
 ```
 ## APA Analysis
 
@@ -130,9 +130,9 @@ This also makes correlation plots between the two variables being compared using
 
 ## Other Data Visualizations
 
-correlation_w_labels.py: Gets the correlation plots but with gene counts of each quadrant
+corr_plots_labels.py: Gets the correlation plots but with gene counts of each quadrant
 
-volcano_plot.py: Gets volcano plots from either the DGE output or REPAC output
+volcano_plots.py: Gets volcano plots from either the DGE output or REPAC output
 
 ### Dependencies
 
